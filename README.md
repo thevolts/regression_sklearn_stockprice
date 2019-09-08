@@ -1,7 +1,7 @@
 # regression_sklearn_stockprice
  Regression analysis for stock price prediction
  
-Using the Scikit Learn library to predict stock prices as regression problem This is just trying different regression methods on stock data. With a model like this it's not possible to predict the future of the stock marked. If it would be that easy we all would be rich :D
+Using the Library of Scikit Learn for a issue of regression inventory prices This is only an experiment in distinct techniques of regression on inventory information. With this model, the future of the stock marked can not be predicted. If it were so simple, we would all be rich: D
 
 # Results:
-As you can see in the results of the Notebook even if the models seem to be not to bad, they are. So if you look closer, they just mimic what happend the day before. From that we can see that a regression model is not good enough to predict stock prices. To do that you should try to use other models and most important its not enough to use only past stock data. There for you could try to use Sentiment Analysis on twitter or news data to improve the model.
+As you can see in the Notebook outcomes, even though the designs do not seem to be too bad, they do. So if you look closer, they're just imitating what's going on the day before. We can see from this that a model of regression is not good enough to predict inventory prices. In order to do this, you should attempt using other models and most importantly not enough to use only previous inventory information. To enhance the template, you can attempt using Sentiment Analysis on twitter or news information.
